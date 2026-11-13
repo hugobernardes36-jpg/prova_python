@@ -1,0 +1,3 @@
+Orquídea;22.00;2
+Girassol;12.00;2
+Total: 68.00
